@@ -1,38 +1,47 @@
-# Welcome to GitHub Pages
-## my name is Krishna Kanhaiya kumar
+# Termux dictionary
+## How to install dictionary in termux
 
-You can use the [editor on GitHub](https://github.com/kkrishna7638/kkrishna.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### For installation of termux dictionary
+just copy and paste the following command.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```
+git clone https://github.com/kkrishna7638/Termux_Dictionary
 
-### Markdown
+cd Termux_Dictionary
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+chmod +x dic
 
-```markdown
-Syntax highlighted code block
+chmod +x install.sh
 
-# Header 1
-## Header 2
-### Header 3
+./install.sh
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I hope after putting above code you got a dictionary in termux. 
+If everything is right then put `dic -h` then you can see the help manual for dictionary. 
+Let's go for some example about it. 
 
-### Jekyll Themes
+```
+$dic god
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kkrishna7638/kkrishna.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+God
+God  n. 1 a (in many religions) superhuman 
+being or spirit worshipped as having
+ power over nature, human fortunes, 
+etc. B image, idol, etc., symbolizing
+ a god. 2 (god) (in christian and 
+other monotheistic religions) creator
+ and ruler of the universe. 3 adored
+ or greatly admired person. 4 (in pl.) 
+Theatr. Gallery.  god forbid may it not happen! God knows
+ 1 it is beyond all knowledge. 2 i call god to witness that.
+ God willing if providence allows. [old english]
+```
 
-### Support or Contact
+Second example with `-p` option
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When you search word with `-p` it means
+dictionary tell whole pronounciation of matched word
+
+For this make sure you have termux API installed in your termux
+
