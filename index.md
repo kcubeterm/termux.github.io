@@ -38,7 +38,7 @@ Theatr. Gallery.  god forbid may it not happen! God knows
  God willing if providence allows. [old english]
 ```
 
-![example screenshot](https://github.com/kterm/intro/blob/master/Screenshot_2019-09-2505-27-197_com.termux.PNG)
+![example screenshot](https://images.app.goo.gl/JAvYBtzSNdCz1cEp7)
 
 Second example with `-p` option
 
