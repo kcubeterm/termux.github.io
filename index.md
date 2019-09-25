@@ -38,6 +38,8 @@ Theatr. Gallery.  god forbid may it not happen! God knows
  God willing if providence allows. [old english]
 ```
 
+![example screenshot](https://github.com/kterm/termux.github.io/blob/master/Screenshot_2019-09-25-07-05-27-197_com.termux.png)
+
 Second example with `-p` option
 
 When you search word with `-p` it means
