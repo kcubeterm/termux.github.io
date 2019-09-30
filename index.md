@@ -42,7 +42,7 @@ Theatr. Gallery.  god forbid may it not happen! God knows
 
 Second example with `-p` option
 
-[![asciicast](https://kterm.github.io/termux.github.io/Screenshot_2019-09-2505-27-197_com.termux.PNG)](https://youtu.be/Rz5X0xhkxfo)
+
 When you search word with `-p` it means
 dictionary tell whole pronounciation of matched word
 
