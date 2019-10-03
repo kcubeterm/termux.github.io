@@ -48,4 +48,3 @@ dictionary tell whole pronounciation of matched word
 
 For this make sure you have termux API installed in your termux
 
-:+1: :sparkles: :camel: :tada:
