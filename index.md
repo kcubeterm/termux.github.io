@@ -5,7 +5,7 @@
 just copy and paste the following command.
 
 ```
-git clone https://github.com/kterm/Termux_Dictionary
+git clone https://github.com/kcubeterm/Termux_Dictionary
 
 cd Termux_Dictionary
 
